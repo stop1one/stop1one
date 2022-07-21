@@ -8,7 +8,7 @@
 ## Cards
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stop1one)](https://solved.ac/stop1one)
 &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stop1one)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stop1one&layout=compact)
 
 <!--
 **stop1one/stop1one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
