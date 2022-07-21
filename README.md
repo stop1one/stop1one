@@ -8,7 +8,7 @@
 ## Cards
 ![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=stop1one)
 &nbsp;
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=stop1one)](https://solved.ac/stop1one)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stop1one)](https://solved.ac/stop1one)
 
 <!--
 **stop1one/stop1one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
