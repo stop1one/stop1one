@@ -5,7 +5,7 @@
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)&nbsp;
 ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white)&nbsp;
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)&nbsp;
-![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)&nbsp;
+![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)&nbsp;
 
 ## Cards
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stop1one)](https://solved.ac/stop1one)
