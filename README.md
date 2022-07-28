@@ -3,6 +3,9 @@
 ## Badges
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstop1one&count_bg=%2330B800&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 
+## Languages
+<img src="https://img.shields.io/badge/C-#A8B9CC?style=for-the-badge&logo=Python&logoColor=white">
+
 ## Cards
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stop1one)](https://solved.ac/stop1one)
 &nbsp;
