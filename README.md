@@ -5,6 +5,7 @@
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)&nbsp;
 ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white)&nbsp;
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)&nbsp;
+![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=black)&nbsp;
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)&nbsp;
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)&nbsp;
 ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=black)&nbsp;
