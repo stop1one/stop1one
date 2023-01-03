@@ -7,6 +7,7 @@
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)&nbsp;
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)&nbsp;
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)&nbsp;
+![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=black)&nbsp;
 
 ## Cards
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stop1one)](https://solved.ac/stop1one)
