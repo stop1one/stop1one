@@ -1,4 +1,6 @@
 ## Hi there 👋
+[깃허브 블로그](https://stop1one.github.io/)에서 깃허브 레포지토리를 소개하고 공부 내용을 정리하고 있습니다. 궁금하면 놀러와 주세요!  
+I am introducing the GitHub repository and organizing my studies on [GitHub blog](https://stop1one.github.io/). If you're curious, please come in!
 
 ## Badges
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstop1one&count_bg=%2330B800&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
