@@ -17,7 +17,6 @@
 
 
 ## Badges
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstop1one&count_bg=%2330B800&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)&nbsp;
 ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white)&nbsp;
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)&nbsp;
