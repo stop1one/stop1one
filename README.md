@@ -1,12 +1,10 @@
 # Hi there 👋
 
 ## 🔭 I’m currently working on ...
-- Korea University, Dept. of Data Science | 고려대학교 정보대학 데이터과학과 재학 중
-- Undergraduate Intern in [MLV Lab, Korea University, Professor Hyunwoo J. Kim](https://www.hyunwoojkim.com/home) | 고려대학교 MLV Lab 학부 연구생
-- [Google Developer Student Clubs](https://gdsc.community.dev/korea-university-seoul-campus/) Crew
-
-### 🔭 I worked on ...
-- Co-founder of UPDATA, Data Science Academy | [고려대학교 정보대학 데이터과학 학회 업데이터](https://github.com/KU-UPDATA) 공동 설립자 및 업데이터 부회장
+- Korea University, Dept. of Data Science
+- Undergraduate Intern in MLV Lab, Korea University, Professor Hyunwoo J. Kim
+- Google Developer Student Clubs Crew
+- Co-founder of UPDATA, Data Science Academy
 
 ## 🤔 I’m interested in ...
 - Machine Learning & Deep Learning
