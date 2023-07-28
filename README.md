@@ -29,8 +29,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stop1one)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Blogs
-[깃허브 블로그](https://stop1one.github.io/)에서 깃허브 레포지토리를 소개하고 공부 내용을 정리하고 있습니다. 궁금하면 놀러와 주세요!  
-I am introducing the GitHub repository and organizing my studies on [GitHub blog](https://stop1one.github.io/). If you're curious, please come in!
+I organized my studies on Notion and Blog:  
+[Jiwon's Notion Page](https://stop1one.notion.site/Notion-Control-Page-cd1fbf57cc834b31bb05c9aa2f60ce28?pvs=4)  
+(Not complete) [GitHub blog](https://stop1one.github.io/)
 
 <!--
 **stop1one/stop1one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
