@@ -2,7 +2,7 @@
 
 # Jiwon Jeong
 
-**Korea University, B.S. Data Science**
+**Korea University, Data Science Undergraduate**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/stop1one/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:jjwon4086@korea.ac.kr)
@@ -13,17 +13,31 @@
 
 ## About Me
 
-Undergraduate majoring in **Data Science** at Korea University, interested in **diffusion models**, **large language models**, and **multimodal learning**.
+Undergraduate majoring in **Data Science** at Korea University, interested in **diffusion models**, **large language models**, and **reinforcement learning**.
 
 ---
 
 ## Experience
 
-**AI Engineer** — *Ngine Studios, Nexon* `Mar 2024 – Present`
-- Research and development of AI models for the game industry: generative models, object detection, VLM
+**Research Intern** — *[AI Imaging Lab](https://aii.korea.ac.kr/), Korea University* `Aug 2026 - Present`
+- Exploring rectified flow methods for image generation and editing under [Prof. Sungjoon Choi](https://aii.korea.ac.kr/people.html).
 
-**Undergraduate Intern** — *MLV Lab, Korea University* `Jan 2023 – Jan 2024`
-- Surveyed recent literature in Graphs, LLM, Diffusion, and multimodal learning; compiled paper reviews and notes in a [public GitHub repository](https://github.com/stop1one/Awesome-Paper-Presentations)
+**AI Engineer** — *Ngine Studios, [Nexon](https://www.intelligencelabs.tech/)* `Mar 2024 - May 2026`
+- Researched and developed AI models for games, including generative models, object detection models, and vision-language models.
+
+**Undergraduate Intern** — *[MLV Lab](https://www.hyunwoojkim.com/), Korea University* `Jan 2023 - Jan 2024`
+- Surveyed recent literature in graph learning, large language models, diffusion models, and multimodal learning; compiled paper reviews and notes in a [public GitHub repository](https://github.com/stop1one/Awesome-Paper-Presentations).
+
+---
+
+## Education
+
+**Korea University, Seoul** — `Mar 2021 - Aug 2028 (Expected)`
+- Data Science Undergraduate
+- GPA 4.45 / 4.5
+
+**University of California, Berkeley** — `Spring & Fall 2027`
+- Incoming Exchange Student, Department of Statistics
 
 ---
 
