@@ -23,7 +23,7 @@ Undergraduate majoring in **Data Science** at Korea University, interested in **
 - Exploring rectified flow methods for image generation and editing under [Prof. Sungjoon Choi](https://aii.korea.ac.kr/people.html).
 
 **AI Engineer** — *Ngine Studios, a [Nexon](https://www.nexon.com/main/en/) company* `Mar 2024 - May 2026`
-- Developed audio generation and image-editing models for games, and built screenshot-based hack detection systems across 10+ game titles.
+- Developed audio generation and image-editing models for games, and built screenshot-based cheat detection systems across 10+ game titles.
 
 **Undergraduate Intern** — *[MLV Lab](https://www.hyunwoojkim.com/), Korea University* `Jan 2023 - Feb 2024`
 - Reviewed and presented papers on graph learning, large language models, diffusion models, and multimodal learning.
